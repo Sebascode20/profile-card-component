@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![profile card component](https://profile-ui-component.netlify.app/images/profile-card-component)
+![profile card component](https://profile-ui-component.netlify.app/images/profile-card-component.png)
 
 ### Links
 
